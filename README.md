@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DrAtifAwan
+- 👋 Hi, I’m @Atif Awan
 - 👀 I’m interested in Python / Cybersecurity 
 - 🌱 I’m currently learning Programming 
 - 💞️ I’m looking to collaborate on Data science
